@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hariom Pandey</h1>
-<h3 align="center">🚀 SDE | Full-Stack Developer</h3>
+<h3 align="center">SDE | Full-Stack Developer</h3>
 
 <p align="center">
 I build scalable full-stack applications and intelligent systems using modern web technologies and machine learning.
@@ -63,10 +63,6 @@ I build scalable full-stack applications and intelligent systems using modern we
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HariomPCode&show_icons=true&locale=en&layout=compact" alt="HariomPCode" />
-</p>
 
 <p align="center">
  Fun fact: I enjoy turning complex ideas into clean, usable products.
