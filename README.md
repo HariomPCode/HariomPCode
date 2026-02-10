@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hariom Pandey</h1>
-<h3 align="center">🚀 SDE | Full-Stack Developer | AI/ML Enthusiast</h3>
+<h1 align="center">Hi, I'm Hariom Pandey</h1>
+<h3 align="center">🚀 SDE | Full-Stack Developer</h3>
 
 <p align="center">
 I build scalable full-stack applications and intelligent systems using modern web technologies and machine learning.
@@ -7,14 +7,14 @@ I build scalable full-stack applications and intelligent systems using modern we
 
 ---
 
-- 🔭 Currently working on **AI-powered full-stack projects (Next.js + ML)**
-- 🌱 Currently learning **System Design, Cloud Deployment (AWS), ML Optimization**
-- 💬 Ask me about **React, Next.js, APIs, Databases, AI/ML**
-- 👨‍💻 All of my projects are available at  
-  👉 <a href="https://portfolio-hariom25.vercel.app/" target="_blank">portfolio-hariom25.vercel.app</a>
-- 📫 Reach me at **pandeyhariom352@gmail.com**
-- 📄 Know about my experiences  
-  👉 <a href="https://drive.google.com/file/d/1fZkfkGH7dyd4e4wR8oWxCdNaIJYSkZXg/view?usp=sharing" target="_blank">View Resume</a>
+- Currently working on **AI-powered full-stack projects (Next.js + ML)**
+- Currently learning **System Design, Cloud Deployment (AWS), ML Optimization**
+- Ask me about **React, Next.js, APIs, Databases, AI/ML**
+- All of my projects are available at  
+  <a href="https://portfolio-hariom25.vercel.app/" target="_blank">portfolio-hariom25.vercel.app</a>
+- Reach me at **pandeyhariom352@gmail.com**
+- Know about my experiences  
+  <a href="https://drive.google.com/file/d/1fZkfkGH7dyd4e4wR8oWxCdNaIJYSkZXg/view?usp=sharing" target="_blank">View Resume</a>
 
 ---
 
@@ -69,5 +69,5 @@ I build scalable full-stack applications and intelligent systems using modern we
 </p>
 
 <p align="center">
-⚡ Fun fact: I enjoy turning complex ideas into clean, usable products.
+ Fun fact: I enjoy turning complex ideas into clean, usable products.
 </p>
