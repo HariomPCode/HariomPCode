@@ -1,48 +1,20 @@
-<h1 align="center">Hariom Pandey</h1>
-<h3 align="center">SDE · Full-Stack Developer · AI/ML Enthusiast</h3>
+<h1 align="center">Hi, I'm Hariom Pandey</h1>
+<h3 align="center">SDE | Full-Stack Developer</h3>
 
 <p align="center">
-  I build scalable full-stack applications and intelligent systems using modern web technologies and machine learning.
+I build scalable full-stack applications and intelligent systems using modern web technologies and machine learning.
 </p>
 
 ---
 
-### 🔗 Connect
-
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-  <tr>
-    <!-- LinkedIn -->
-    <td width="50%" style="padding:6px; border:none;">
-      <table border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td align="center" bgcolor="#ffffff" width="60" height="60">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="28"/>
-          </td>
-          <td style="padding-left:10px;">
-            <a href="https://linkedin.com/in/hariom-pandey1/" target="_blank">
-              linkedin.com/in/hariom-pandey1
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Email -->
-    <td width="50%" style="padding:6px; border:none;">
-      <table border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td align="center" bgcolor="#ffffff" width="60" height="60">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="28"/>
-          </td>
-          <td style="padding-left:10px;">
-            <a href="mailto:pandeyhariom352@gmail.com">
-              pandeyhariom352@gmail.com
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+- Currently working on **AI-powered full-stack projects (Next.js + ML)**
+- Currently learning **System Design, Cloud Deployment (AWS), ML Optimization**
+- Ask me about **React, Next.js, APIs, Databases, AI/ML**
+- All of my projects are available at  
+  <a href="https://portfolio-hariom25.vercel.app/" target="_blank">portfolio-hariom25.vercel.app</a>
+- Reach me at **pandeyhariom352@gmail.com**
+- Know about my experiences  
+  <a href="https://drive.google.com/file/d/1fZkfkGH7dyd4e4wR8oWxCdNaIJYSkZXg/view?usp=sharing" target="_blank">View Resume</a>
 
 ---
 
