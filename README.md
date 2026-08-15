@@ -141,5 +141,5 @@ I build scalable full-stack applications and intelligent systems using modern we
 ---
 
 <p align="center">
-  <i>I enjoy turning complex ideas into clean, usable products.</i>
+  <img src="https://komarev.com/ghpvc/?username=HariomPCode&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
 </p>
